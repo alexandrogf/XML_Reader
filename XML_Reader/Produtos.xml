@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Produtos>
+  <Produto>
+    <id>10</id>
+    <nome>Caderno</nome>
+    <preco>10.99</preco>
+  </Produto>
+  <Produto>
+    <id>20</id>
+    <nome>Caneta</nome>
+    <preco>5.45</preco>
+  </Produto>
+  <Produto>
+    <id>30</id>
+    <nome>Borracha</nome>
+    <preco>2.50</preco>
+  </Produto>
+  <Produto>
+    <id>40</id>
+    <nome>Estojo</nome>
+    <preco>4.99</preco>
+  </Produto>
+</Produtos>
